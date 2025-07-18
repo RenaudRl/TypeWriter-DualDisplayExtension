@@ -1,2 +1,6 @@
 # TypeWriter-DualDisplayExtension
 Add double text display to display and focus another point in TypeWriter
+
+dual_text_display_instance
+dual_text_display_definition
+look_at_secondary_text_display_bound
